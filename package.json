@@ -26,6 +26,6 @@
     "nodemon": "^2.0.12",
     "react-rating-stars-component": "^2.2.0",
     "stripe": "^8.186.1",
-    "validator": "^13.6.0"
+    "validator": "^13.7.0"
   }
 }
